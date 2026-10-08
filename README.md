@@ -16,7 +16,9 @@ The project follows a **Planning + Reflection** workflow where every stage is va
 # 👨‍💻 Author
 
 Created by **Rohit Das**
+
 AI Engineer | Machine Learning & Computer Vision | GenAI Developer
+
 - 💼 LinkedIn: https://www.linkedin.com/in/rohit-das-780341288/
 
 ---
